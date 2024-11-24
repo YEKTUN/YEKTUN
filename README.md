@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ALİ</h1>
 <h3 align="center">Hi, My name is Ali, and I am 24 years old. I am in my final year of Computer Engineering at Manisa Celal Bayar University. My interest in technology led me to choose computer engineering. Taking a break from the busy pace of life to create something in software has always been enjoyable for me. I am developing my skills as a Full-Stack Web and Mobile Developer, focusing on React, Spring Boot, JavaScript, and Java.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yektun&label=Profile%20views&color=0e75b6&style=flat" alt="yektun" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yektun" alt="yektun" /></a> </p>
 
