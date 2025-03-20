@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently working on it **React,Spring Boot,Jetpack Compose**
 
-- 🔭 I’m currently working on [MySocialMedia App](https://yektun.com/)
+- 🔭 I’m currently working on [MySocialMedia App]()
 
 - 🔭 I’m currently working on **MyChat Mobile App**
 
-- 👨‍💻 All of my projects are available at [https://myportfolyo.onrender.com/](https://myportfolyo.onrender.com/)
+- 👨‍💻 All of my projects are available at (https://yektun.com/)
 
 - 💬 Ask me about **React,Spring,Jetapck Compose**
 
-- 📫 How to reach me **alituncer847@gmail.com**
+- 📫 How to reach me **ali.tuncer@yektun.com**
 
 - 📄 Know about my experiences [https://new.express.adobe.com/publishedV2/urn:aaid:sc:AP:cc4cb5db-5056-4f19-8173-1cb0dab49627?promoid=Y69SGM5H&mv=other](https://new.express.adobe.com/publishedV2/urn:aaid:sc:AP:cc4cb5db-5056-4f19-8173-1cb0dab49627?promoid=Y69SGM5H&mv=other)
 
