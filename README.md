@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ali.tuncer@yektun.com**
 
-- 📄 Know about my experiences [https://new.express.adobe.com/publishedV2/urn:aaid:sc:AP:cc4cb5db-5056-4f19-8173-1cb0dab49627?promoid=Y69SGM5H&mv=other](https://new.express.adobe.com/publishedV2/urn:aaid:sc:AP:cc4cb5db-5056-4f19-8173-1cb0dab49627?promoid=Y69SGM5H&mv=other)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
