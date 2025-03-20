@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on it **React,Spring Boot,Jetpack Compose**
 
-- 🔭 I’m currently working on [MySocialMedia App](https://alisocial.onrender.com/)
+- 🔭 I’m currently working on [MySocialMedia App](https://yektun.com/)
 
 - 🔭 I’m currently working on **MyChat Mobile App**
 
