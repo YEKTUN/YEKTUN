@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **MyChat Mobile App**
 
-- 👨‍💻 All of my projects are available at (https://yektun.com/)
+- 👨‍💻 All of my projects are available at (https://www.yektun.com/)
 
 - 💬 Ask me about **React,Spring,Jetapck Compose**
 
